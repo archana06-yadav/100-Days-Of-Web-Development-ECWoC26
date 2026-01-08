@@ -8,7 +8,8 @@ const REPO_URL = "https://github.com/Shubham-cyber-prog/100-Days-Of-Web-Developm
 // Map of existing folders found in public/ to handle inconsistencies
 const folderMap = {
     1: "Day 01", 2: "Day 02", 3: "Day 03", 4: "Day 04", 5: "Day 05",
-    6: "Day 06", 7: "Day 07", 8: "Day 08", 9: "Day 09", 11: "Day 11",
+    6: "Day 06", 7: "Day 07", 8: "Day 08", 9: "Day 09", 10: "Day 10", 
+    11: "Day 11", 12: "Day 12",
     13: "Day 13", 14: "Day 14", 15: "Day 15", 16: "Day 16", 20: "Day 20",
     21: "Day 21", 23: "Day 23", 24: "Day 24", 25: "Day 25", 26: "DAY 26",
     27: "Day 27", 28: "Day 28", 29: "Day 29", 30: "Day 30", 36: "Day 36",
